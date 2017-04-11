@@ -1,0 +1,48 @@
+<svg height="718" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="718" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">6 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ load-grunt-config@0.19.2 </tspan>
+<tspan x="10" y="90">  ├─┬ cson@3.0.2 </tspan>
+<tspan x="10" y="106">  │ ├── coffee-script@1.12.5 </tspan>
+<tspan x="10" y="122">  │ ├── cson-parser@1.3.5 </tspan>
+<tspan x="10" y="138">  │ ├─┬ extract-opts@3.3.1 </tspan>
+<tspan x="10" y="154">  │ │ ├── eachr@3.2.0 </tspan>
+<tspan x="10" y="170">  │ │ ├── editions@1.3.3 </tspan>
+<tspan x="10" y="186">  │ │ └── typechecker@4.4.1 </tspan>
+<tspan x="10" y="202">  │ ├── requirefresh@2.1.0 </tspan>
+<tspan x="10" y="218">  │ └─┬ safefs@4.1.0 </tspan>
+<tspan x="10" y="234">  │   └── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="250">  ├─┬ glob@5.0.15 </tspan>
+<tspan x="10" y="266">  │ ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="282">  │ │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="298">  │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="314">  │ ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="330">  │ │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="346">  │ │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="362">  │ │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="378">  │ ├── once@1.4.0 </tspan>
+<tspan x="10" y="394">  │ └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="410">  ├── UNMET PEER DEPENDENCY grunt@&gt;=0.4.0</tspan>
+<tspan x="10" y="426">  ├── jit-grunt@0.10.0 </tspan>
+<tspan x="10" y="442">  ├─┬ js-yaml@3.4.6 </tspan>
+<tspan x="10" y="458">  │ ├─┬ argparse@1.0.9 </tspan>
+<tspan x="10" y="474">  │ │ └── sprintf-js@1.0.3 </tspan>
+<tspan x="10" y="490">  │ ├── esprima@2.7.3 </tspan>
+<tspan x="10" y="506">  │ └── inherit@2.2.6 </tspan>
+<tspan x="10" y="522">  ├─┬ load-grunt-tasks@3.3.0 </tspan>
+<tspan x="10" y="538">  │ ├── arrify@1.0.1 </tspan>
+<tspan x="10" y="554">  │ ├─┬ multimatch@2.1.0 </tspan>
+<tspan x="10" y="570">  │ │ ├── array-differ@1.0.0 </tspan>
+<tspan x="10" y="586">  │ │ └─┬ array-union@1.0.2 </tspan>
+<tspan x="10" y="602">  │ │   └── array-uniq@1.0.3 </tspan>
+<tspan x="10" y="618">  │ └─┬ pkg-up@1.0.0 </tspan>
+<tspan x="10" y="634">  │   └─┬ find-up@1.1.2 </tspan>
+<tspan x="10" y="650">  │     ├── path-exists@2.1.0 </tspan>
+<tspan x="10" y="666">  │     └─┬ pinkie-promise@2.0.1 </tspan>
+<tspan x="10" y="682">  │       └── pinkie@2.0.4 </tspan>
+<tspan x="10" y="698">  └── lodash@3.10.1</tspan>
+</text>
+</svg>
