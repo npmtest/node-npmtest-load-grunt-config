@@ -1,7 +1,10 @@
-# test coverage for  [load-grunt-config (v0.19.2)](https://github.com/firstandthird/load-grunt-config#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-load-grunt-config.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-load-grunt-config) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-load-grunt-config.svg)](https://travis-ci.org/npmtest/node-npmtest-load-grunt-config)
+# npmtest-load-grunt-config
+
+#### test coverage for  [load-grunt-config (v0.19.2)](https://github.com/firstandthird/load-grunt-config#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-load-grunt-config.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-load-grunt-config) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-load-grunt-config.svg)](https://travis-ci.org/npmtest/node-npmtest-load-grunt-config)
+
 #### Grunt plugin that lets you break up your Gruntfile config by task
 
-[![NPM](https://nodei.co/npm/load-grunt-config.png?downloads=true)](https://www.npmjs.com/package/load-grunt-config)
+[![NPM](https://nodei.co/npm/load-grunt-config.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/load-grunt-config)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-load-grunt-config/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-load-grunt-config/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-load-grunt-config/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-load-grunt-config/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-load-grunt-config/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-load-grunt-config/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-load-grunt-config/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-load-grunt-config/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-load-grunt-config/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-load-grunt-config/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-load-grunt-config%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-load-grunt-config/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-load-grunt-config/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-load-grunt-config/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-load-grunt-config%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-load-grunt-config/build/test-report.html](https://npmtest.github.io/node-npmtest-load-grunt-config/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-load-grunt-config/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-load-grunt-config/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-load-grunt-config/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-load-grunt-config/build/screenCapture.npmPackageListing.svg)
 
@@ -74,17 +83,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "jga",
-            "email": "code@firstandthird.com"
+            "name": "jga"
         },
         {
-            "name": "solomon",
-            "email": "mail@solomon.if.ua"
+            "name": "solomon"
         }
     ],
     "name": "load-grunt-config",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/firstandthird/load-grunt-config.git"
